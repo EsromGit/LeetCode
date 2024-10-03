@@ -1,8 +1,10 @@
 class Solution:
+    def __init__(self):
+        self.cache = {}
+
     def integerReplacement(self, n: int) -> int:
-        cache = {}
-        if n in cache:
-            return cache[n]
+        if n in self.cache:
+            return self.cache[n]
     
         if n == 1:
             return 0
@@ -12,5 +14,5 @@ class Solution:
         else:
             value = 1 + min(self.integerReplacement(n + 1), self.integerReplacement(n - 1))
 
-        cache[n] = value
+        self.cache[n] = value
         return value

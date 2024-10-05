@@ -4,15 +4,8 @@ class Solution:
         sum = 0
 
         for i in range(len(s)):
-            current_value = map[s[i]]
-
-            if i < len(s) -1:
-                next_value = map[s[i+1]]
-
-                if current_value < next_value:
-                    sum -= current_value
-                else:
-                    sum += current_value
+            if i < len(s) -1 and map[s[i]] < map[s[i + 1]]:
+                sum -= map[s[i]]
             else:
-                sum += current_value
+                sum += map[s[i]]
         return sum

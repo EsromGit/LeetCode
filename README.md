@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/EsromGit/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
+| [2752-sum-multiples](https://github.com/EsromGit/LeetCode/tree/master/2752-sum-multiples) |
 ## Array
 |  |
 | ------- |

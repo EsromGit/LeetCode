@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/EsromGit/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1019-squares-of-a-sorted-array](https://github.com/EsromGit/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -46,4 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/EsromGit/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
+## Array
+|  |
+| ------- |
+| [1019-squares-of-a-sorted-array](https://github.com/EsromGit/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [1019-squares-of-a-sorted-array](https://github.com/EsromGit/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->

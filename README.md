@@ -41,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/EsromGit/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Math
+|  |
+| ------- |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/EsromGit/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 <!---LeetCode Topics End-->

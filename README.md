@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/EsromGit/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/EsromGit/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/EsromGit/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/EsromGit/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## String
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/EsromGit/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/EsromGit/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/EsromGit/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/EsromGit/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0742-to-lower-case](https://github.com/EsromGit/LeetCode/tree/master/0742-to-lower-case) |
 | [1894-merge-strings-alternately](https://github.com/EsromGit/LeetCode/tree/master/1894-merge-strings-alternately) |

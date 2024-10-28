@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/EsromGit/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/EsromGit/LeetCode/tree/master/0605-can-place-flowers) |
 | [1019-squares-of-a-sorted-array](https://github.com/EsromGit/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/EsromGit/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -69,5 +70,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/EsromGit/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/EsromGit/LeetCode/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->

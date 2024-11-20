@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/EsromGit/LeetCode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/EsromGit/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/EsromGit/LeetCode/tree/master/0605-can-place-flowers) |
+| [0792-binary-search](https://github.com/EsromGit/LeetCode/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/EsromGit/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/EsromGit/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/EsromGit/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -86,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/EsromGit/LeetCode/tree/master/0392-is-subsequence) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/EsromGit/LeetCode/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
